@@ -144,5 +144,3 @@ class Editor:
             self.clock.tick(60)
 
 Editor().run()
-
-# check and review 2:45:19

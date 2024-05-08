@@ -9,14 +9,19 @@ Latest update May 5th, 2024
 ----------Update 0.0.1------------- 
 Date: May 5th, 2024
 
-Desc: Images, inputs, and collisions
+Desc: Images, inputs, & collisions
 
 ----------Update 0.0.2-------------
 Date: May 6th, 2024
 
-Desc: Player, tiles, and physics
+Desc: Player, tiles, & physics
 
 ----------Update 0.0.3-------------
 Date: May 7th, 2024
 
-Desc: Player camera, player animition, Sky, and game optimization
+Desc: Player camera, player animation, sky, & game optimization
+
+----------Update 0.0.4-------------
+Date: May 8th, 2024
+
+Desc: Map editor, improved jump, slide & particles
