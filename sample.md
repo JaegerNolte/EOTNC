@@ -5,3 +5,5 @@
 --------------Version 0.0.3---------------
 
 ![image](https://github.com/JaegerNolte/EOTNC/assets/139177918/e2d4cb76-3b83-40c2-800d-de7a972a2f60)
+
+Link: https://youtu.be/jLi98uWpYRY
